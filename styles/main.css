@@ -203,8 +203,8 @@ aside img {
 	padding-bottom: 1em;
 /*	transition: 2s;
 	-webkit-transition: 2s;*/
-	-webkit-animation: move 3s ease-in-out 2s 4 alternate;
-    animation: move 3s ease-in-out 2s 4  alternate ;*/
+/*	-webkit-animation: move 3s ease-in-out 2s 4 alternate;
+    animation: move 3s ease-in-out 2s 4  alternate ;
 }
 @-webkit-keyframes move {
 	from {
