@@ -136,11 +136,11 @@ article img {
 	float: right;
 	margin: .5em 0 1em 1em;
 	border: 1px solid black;
-	transition: 3s;
+	/* transition: 3s; */
 }
 article img:hover {
-	transform-origin: left top;
-	transform: rotate(720deg);
+	/* transform-origin: left top;
+	transform: rotate(720deg); */
 }
 
 /* the styles for the table */
